@@ -3,8 +3,8 @@
 </div> -->
 
 <h1 align="center">Thiago Berzin Telles</h1>
-<p align="center", width="500px">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2E86DE&background=FFFFFF00&center=true&vCenter=true&width=520&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%7C+C%23+%7C+React+%7C+Flutter;Sempre+aprendendo+algo+novo" alt="Typing subtitle" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=640&size=18&pause=1000&color=2E86DE&background=FFFFFF00&center=true&vCenter=true&width=520&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%7C+C%23+%7C+React+%7C+Flutter;Sempre+aprendendo+algo+novo" alt="Typing subtitle" />
 </p>
 
 <p align="center">
