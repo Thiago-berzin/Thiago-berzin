@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="mailto:thiagoberzintelles@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/thiago berzin telles"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/thiago-berzin-telles-33507630b/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/></a>&nbsp;
   <a href="https://github.com/thiago-berzin"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/></a>
 </p>
 
@@ -124,6 +124,6 @@ Integração de alerta visual (giroflex) ao sistema de alarme de incêndio, com 
 
 <div align="center">
   <a href="mailto:thiagoberzintelles@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/thiago berzin telles"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/thiago-berzin-telles-33507630b/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/></a>&nbsp;
   <a href="https://github.com/thiago-berzin"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/></a>
 </div>
