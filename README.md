@@ -3,14 +3,14 @@
 </div> -->
 
 <h1 align="center">Thiago Berzin Telles</h1>
-<p align="center">
+<p align="center", width="500px">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2E86DE&background=FFFFFF00&center=true&vCenter=true&width=520&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%7C+C%23+%7C+React+%7C+Flutter;Sempre+aprendendo+algo+novo" alt="Typing subtitle" />
 </p>
 
 <p align="center">
   <a href="mailto:thiagoberzintelles@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://github.com/SEU-USUARIO-AQUI"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/thiago berzin telles"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/thiago-berzin"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/></a>
 </p>
 
 <p align="center">📍 Osasco, SP &nbsp;•&nbsp; 📞 (11) 94223-0906</p>
@@ -124,6 +124,6 @@ Integração de alerta visual (giroflex) ao sistema de alarme de incêndio, com 
 
 <div align="center">
   <a href="mailto:thiagoberzintelles@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://github.com/SEU-USUARIO-AQUI"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/thiago berzin telles"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/thiago-berzin"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/></a>
 </div>
